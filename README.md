@@ -1,7 +1,7 @@
 # java-learning
 
 # Resources
-* https://inst.eecs.berkeley.edu/~cs61b/sp20/
+* https://fa20.datastructur.es/
 * https://www.edx.org/course/learn-to-program-in-java-2
 * Head First Java
 * Java Cookbook: Problems and Solutions for Java Developers
@@ -18,7 +18,7 @@
 # TODO
 * Find a good Java course (Edx, Coursera, CS61B, CS186)
 * Join a side project (code-snippets, book-hopper)
-* Read a textbook (Head First Java, Java Cookbook)
+* Read the Josh Hug gitbook CS 61B
 
 # NEXT TIME
 * Workshops + guides on Java fundamentals 
